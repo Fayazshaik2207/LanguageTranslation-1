@@ -1,4 +1,5 @@
 # LanguageTranslation-1
+Language Translation App is a simple React-based web application that allows users to translate text between multiple languages in real time using the DeepL API. It provides a clean interface for selecting source and target languages, entering text, and viewing instant translations.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
