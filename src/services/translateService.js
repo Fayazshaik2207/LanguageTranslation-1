@@ -1,6 +1,6 @@
 export async function translateText(text, targetLang) {
     
-    const apiKey = "d903e1a4-d8f7-4377-a5bb-b3e24f8ac13d:fx"; // DeepL key
+    const apiKey = "d903e1a4-xxxxx-xxx-xx-xxxx"; // DeepL key
     const proxyUrl = "https://cors-anywhere.herokuapp.com/"; // enable at /corsdemo
     const deeplUrl = "https://api-free.deepl.com/v2/translate";
 
