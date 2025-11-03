@@ -23,3 +23,6 @@ Builds the app for production.
 
 
 ![image alt](https://github.com/Fayazshaik2207/LanguageTranslation-1/blob/2acf5086d60b4cfef83cb1d5a689cbf71f683320/Screenshot%20(124).png)
+
+
+![image alt] (https://github.com/Fayazshaik2207/LanguageTranslation-1/blob/5b276329ec56b2e539f910fafc9bfd7cafdb7d96/Screenshot%20(125).png)
