@@ -1,4 +1,3 @@
-
 # LanguageTranslation-1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -21,3 +20,6 @@ Launches the test runner in interactive watch mode.
 Builds the app for production.
 
 ...
+
+
+![image alt](https://github.com/Fayazshaik2207/LanguageTranslation-1/blob/2acf5086d60b4cfef83cb1d5a689cbf71f683320/Screenshot%20(124).png)
