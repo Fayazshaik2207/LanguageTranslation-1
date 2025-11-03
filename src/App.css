@@ -1,0 +1,82 @@
+.header {
+  background: #282c34;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.search-form input {
+  border: none;
+  outline: none;
+  padding: 6px 10px;
+}
+
+.search-form button {
+  border: none;
+  background: #61dafb;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.language-section {
+  position: relative;
+}
+
+.lang-btn {
+  background: #61dafb;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.language-dropdown {
+  position: absolute;
+  right: 0;
+  top: 40px;
+  background: white;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 150px;
+  z-index: 10;
+}
+
+.language-dropdown li {
+  padding: 8px 12px;
+  cursor: pointer;
+  color: #333;
+}
+
+.language-dropdown li:hover {
+  background-color: #eee;
+}
